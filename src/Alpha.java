@@ -9,7 +9,7 @@ System.out.print (apl[i].toUpperCase());
 i++;
 System.out.print (apl[i]);
 
-System.out.println("My First Commit");
+System.out.print("Test1");
 }
 
 }
